@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-(https://fitx-image-bucket.s3.eu-west-1.amazonaws.com/1702299431950.jpg)
+![App Screenshot](https://fitx-image-bucket.s3.eu-west-1.amazonaws.com/1702299431950.jpg)
 
 Built using:
 
