@@ -79,14 +79,14 @@ export const Projects = () => {
       title: "Man with a van",
       description: "Frontend Development",
       imgUrl: projImg9,
-      demoLink: "https://speedyremovals.ie/",
+      // demoLink: "https://speedyremovals.ie/",
       githubLink: "https://github.com/TariqH19/khmwv2",
     },
     {
       title: "Fitness Tracking App",
       description: "Mobile Development",
       imgUrl: projImg10,
-      demoLink: "https://fit-fe.vercel.app/",
+      // demoLink: "https://fit-fe.vercel.app/",
       githubLink: "https://github.com/TariqH19/fitFE",
     },
     {
